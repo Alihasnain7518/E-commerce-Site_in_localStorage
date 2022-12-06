@@ -1,2 +1,2 @@
 # E-commerce-Site_in_localStorage
-This is e-commerce  site in localstorage.
+This is e-commerce  site where user can create account login to the account upload products include(title, description, price, category) and can also make categories. on the client side every product is showen within it's category. More than one user can create account   and every user can see just his own created category and uploaded products. Also can buy product  and much more. also paypal intial payment integration of   paypal account. And all of this is with Vanilla JavaScript and in local storage.
